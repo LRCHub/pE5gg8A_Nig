@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "base_track": "夜撫でるメノウ",
+  "base_artist": "Ayase",
+  "createdAt": "2026-04-02T08:40:15.243399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜撫でるメノウ (Ayase ver.)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/01_夜撫でるメノウ_(Ayase_ver.)_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/02_夜撫でるメノウ_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_夜撫でるメノウ_Ayase.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_01_夜撫でるメノウ_Ayase.lrc",
+      "repo_name": "ZLBUxmIWTa0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_02_夜撫でるメノウ_Ayase.lrc",
+      "repo_name": "Amrf9wb6wyY"
+    }
+  ]
+}
